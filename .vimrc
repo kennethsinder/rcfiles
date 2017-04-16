@@ -7,6 +7,9 @@ set ruler
 " Line numbers always shown
 set number
 
+" Confirmation dialog instead of failed command
+set confirm
+
 " Backspacing in insert mode
 set backspace=indent,eol,start
 
